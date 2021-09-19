@@ -1,0 +1,17 @@
+*{
+    background-color: silver;
+    color: black;
+    font-family: "Verdana", "Helvetica", "Times New Roman",sans-serif;
+}
+.head-text{
+    color: red;
+    text-decoration: underline;
+}
+img {
+    height: 200px;
+    width: auto;
+}
+a{
+    color:royalblue;
+    font-style: italic;
+}
